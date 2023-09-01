@@ -5,7 +5,7 @@
             <link rel="stylesheet" href="style.css"/>
             <link rel="icon" href="https://cdn.dribbble.com/users/1061842/screenshots/2942741/media/e25c785df467f375194d85617b3f7128.png?compress=1&resize=400x300&vertical=top" type="image/x-icon">      
             <meta name="google-site-verification" content="dq0_n6xUf9XgnjNIsmugNH2kRjcCkLbeddKEld0bCOw" />
-
+            google-site-verification=fpJqNVHLkV-AkKxXZmYBme3Yn3AaXrIOYmAWGKoSPN4
         </head>
         <header>Бывшие</header>
         <h1>Бывшие</h1>
